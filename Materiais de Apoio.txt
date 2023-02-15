@@ -1,0 +1,20 @@
+Sintaxe Java
+- 	https://docs.google.com/presentation/d/1UCNtQfyKPnei-1Xs_pVyku8CPEMXRPbc/edit#slide=id.g1015af5f028_1_86
+- 	https://github.com/digitalinnovationone/trilha-java-basico
+- 	https://glysns.gitbook.io/java-basico/
+
+Estruturas de Repetição e Arrays Java
+-	https://drive.google.com/file/d/1xNzZ3dQMATP11Dk3HWsAWdEuJfVDpnN_/view
+- 	https://github.com/cami-la/loops-e-arrays
+
+Estrutura de Dados Java
+- 	https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula1    // Aula 1 até o 8 ex: Aula8 ao invés de Aula1
+
+Entendendo Metodos Java
+- 	https://github.com/tlcdio/MAula01
+- 	https://github.com/tlcdio/MAula02
+-	https://github.com/tlcdio/MAula03
+-	https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit#slide=id.g1dab0d043ad_1_1386
+
+
+	
